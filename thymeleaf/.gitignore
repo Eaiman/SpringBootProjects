@@ -27,7 +27,3 @@ HELP.md
 
 ### VS Code ###
 .vscode/
-
-### h2 ###
-*.mv.db
-*.mv
